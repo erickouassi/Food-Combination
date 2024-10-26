@@ -1,0 +1,111 @@
+{
+    "Food Categories": [
+      "Animal Protein",
+      "Plant Protein",
+      "Vegetables",
+      "Fats",
+      "Starches",
+      "Sweet Fruits",
+      "High Acid Fruits",
+      "Low Acid Fruits"
+    ],
+    "Combinations": [
+      {
+        "Animal Protein": {
+          "Animal Protein": "GOOD",
+          "Plant Protein": "POOR",
+          "Vegetables": "GOOD",
+          "Fats": "POOR",
+          "Starches": "POOR",
+          "Sweet Fruits": "POOR",
+          "High Acid Fruits": "FAIR",
+          "Low Acid Fruits": "FAIR"
+        }
+      },
+      {
+        "Plant Protein": {
+          "Animal Protein": "POOR",
+          "Plant Protein": "GOOD",
+          "Vegetables": "GOOD",
+          "Fats": "GOOD",
+          "Starches": "FAIR",
+          "Sweet Fruits": "POOR",
+          "High Acid Fruits": "FAIR",
+          "Low Acid Fruits": "FAIR"
+        }
+      },
+      {
+        "Vegetables": {
+          "Animal Protein": "GOOD",
+          "Plant Protein": "GOOD",
+          "Vegetables": "GOOD",
+          "Fats": "GOOD",
+          "Starches": "GOOD",
+          "Sweet Fruits": "FAIR",
+          "High Acid Fruits": "GOOD",
+          "Low Acid Fruits": "GOOD"
+        }
+      },
+      {
+        "Fats": {
+          "Animal Protein": "POOR",
+          "Plant Protein": "GOOD",
+          "Vegetables": "GOOD",
+          "Fats": "GOOD",
+          "Starches": "FAIR",
+          "Sweet Fruits": "POOR",
+          "High Acid Fruits": "FAIR",
+          "Low Acid Fruits": "FAIR"
+        }
+      },
+      {
+        "Starches": {
+          "Animal Protein": "POOR",
+          "Plant Protein": "FAIR",
+          "Vegetables": "GOOD",
+          "Fats": "FAIR",
+          "Starches": "GOOD",
+          "Sweet Fruits": "POOR",
+          "High Acid Fruits": "POOR",
+          "Low Acid Fruits": "FAIR"
+        }
+      },
+      {
+        "Sweet Fruits": {
+          "Animal Protein": "POOR",
+          "Plant Protein": "POOR",
+          "Vegetables": "FAIR",
+          "Fats": "POOR",
+          "Starches": "POOR",
+          "Sweet Fruits": "GOOD",
+          "High Acid Fruits": "POOR",
+          "Low Acid Fruits": "FAIR"
+        }
+      },
+      {
+        "High Acid Fruits": {
+          "Animal Protein": "FAIR",
+          "Plant Protein": "FAIR",
+          "Vegetables": "GOOD",
+          "Fats": "FAIR",
+          "Starches": "POOR",
+          "Sweet Fruits": "POOR",
+          "High Acid Fruits": "GOOD",
+          "Low Acid Fruits": "GOOD"
+        }
+      },
+      {
+        "Low Acid Fruits": {
+          "Animal Protein": "FAIR",
+          "Plant Protein": "FAIR",
+          "Vegetables": "GOOD",
+          "Fats": "FAIR",
+          "Starches": "FAIR",
+          "Sweet Fruits": "FAIR",
+          "High Acid Fruits": "GOOD",
+          "Low Acid Fruits": "GOOD"
+        }
+      }
+    ]
+  }
+  
