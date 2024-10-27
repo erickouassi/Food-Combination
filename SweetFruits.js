@@ -1,8 +1,4 @@
-const SweeFruits = {
-    "lychee": "Sweet Fruits",
-    "papaya": "Sweet Fruits",
-    "guava": "Sweet Fruits",
-    "coconut": "Sweet Fruits",
+const SweetFruits = {
   "lychee": "Sweet Fruits",
   "papaya": "Sweet Fruits",
   "guava": "Sweet Fruits",
@@ -24,5 +20,6 @@ const SweeFruits = {
   "honeydew melon": "Sweet Fruits",
   "cantaloupe": "Sweet Fruits",
   "fig": "Sweet Fruits",
-  "date": "Sweet Fruits"
-}
+  "date": "Sweet Fruits",
+  "coconut": "Sweet Fruits"
+};
