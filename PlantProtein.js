@@ -1,13 +1,8 @@
 const PlantProtein = {
-    "tofu": "Plant Protein",
-   "tempeh": "Plant Protein",
-    "hummus": "Plant Protein",
-    "seitan": "Plant Protein",
-    "lentils": "Plant Protein",
+  "tofu": "Plant Protein",
   "tempeh": "Plant Protein",
   "hummus": "Plant Protein",
   "seitan": "Plant Protein",
-  "tofu": "Plant Protein",
   "edamame": "Plant Protein",
   "lentils": "Plant Protein",
   "chickpeas": "Plant Protein",
@@ -32,4 +27,4 @@ const PlantProtein = {
   "hemp protein": "Plant Protein",
   "soy protein isolate": "Plant Protein",
   "vegetable protein powder": "Plant Protein"
-}
+};
