@@ -1,9 +1,4 @@
 const Fats = {
-    "pumpkin seeds": "Fats",
-    "sunflower seeds": "Fats",
-    "sesame seeds": "Fats",
-    "tahini": "Fats",
-    "macadamia nuts": "Fats",
   "pumpkin seeds": "Fats",
   "sunflower seeds": "Fats",
   "sesame seeds": "Fats",
@@ -66,20 +61,15 @@ const Fats = {
   "potato chips": "Fats",
   "tortilla chips": "Fats",
   "popcorn": "Fats",
-  "nuts and seeds": "Fats",
   "dark chocolate": "Fats",
   "milk chocolate": "Fats",
   "white chocolate": "Fats",
   "ice cream": "Fats",
   "yogurt": "Fats",
   "cheese": "Fats",
-  "butter": "Fats",
   "margarine": "Fats",
   "shortening": "Fats",
-  "lard": "Fats",
-  "tallow": "Fats",
   "dripping": "Fats",
   "schmaltz": "Fats",
-  "ghee": "Fats",
   "clarified butter": "Fats"
-}
+};
