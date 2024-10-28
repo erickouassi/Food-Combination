@@ -16,7 +16,7 @@ We welcome contributions to expand our food database within the following catego
 
 ### How to Add New Items
 1. **Fork the repository.**
-2. **Add new items to the relevant category in the `foodItems.js` file.**
+2. **Add new items to the relevant category in the `Vegetables.js` file for example.**
 3. **Create a pull request with a description of your changes.**
 
 ## Contact
