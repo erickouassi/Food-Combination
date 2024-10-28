@@ -20,7 +20,7 @@ We welcome contributions to expand our food database within the following catego
 3. **Create a pull request with a description of your changes.**
 
 ## Contact
-If you have any questions or suggestions, feel free to [open an issue](https://github.com/erickouassi/Food-Combination) or contact us directly.
+If you have any questions or suggestions, feel free to [open an issue](https://github.com/erickouassi/Food-Combination/issues/new) or contact us directly.
 
 ## Credits
 This database is curated by Eric Kouassi, inspired by [this blog post](https://www.promotehealthwellness.com/food-combination-chart/). 💡
