@@ -1,6 +1,6 @@
 # Food Combination Tool 🍽️
 
-## How to Contribute 🤝
+## How to Contribute
 
 We welcome contributions to expand our food database within the following categories:
 
@@ -19,8 +19,12 @@ We welcome contributions to expand our food database within the following catego
 2. **Add new items to the relevant category in the `Vegetables.js` file for example.**
 3. **Create a pull request with a description of your changes.**
 
+## Try the App
+We’ve built an interactive app based on this database. Click [here](https://link-to-your-app.com) to try the Food Combination Tool and start making healthier food choices today!
+
 ## Contact
 If you have any questions or suggestions, feel free to [open an issue](https://github.com/erickouassi/Food-Combination/issues/new) or contact us directly.
 
 ## Credits
-This database is curated by Eric Kouassi, inspired by [this blog post](https://www.promotehealthwellness.com/food-combination-chart/). 💡
+This database is curated by Eric Kouassi, inspired by [this blog post](https://www.promotehealthwellness.com/food-combination-chart/).
+
