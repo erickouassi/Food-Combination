@@ -20,7 +20,7 @@ We welcome contributions to expand our food database within the following catego
 3. **Create a pull request with a description of your changes.**
 
 ## Try the App
-We’ve built an interactive app based on this database. Click [here](https://link-to-your-app.com) to try the Food Combination Tool and start making healthier food choices today!
+We’ve built an interactive app based on this database. Click [here](https://foodpairtool.adminhq.cf/) to try the Food Combination Tool and start making healthier food choices today!
 
 ## Contact
 If you have any questions or suggestions, feel free to [open an issue](https://github.com/erickouassi/Food-Combination/issues/new) or contact us directly.
